@@ -1,0 +1,16 @@
+body {				
+	background-color: #ffffff;
+	margin: 0px;
+	overflow: hidden;
+}
+
+.action{
+	background-color: red;
+	width: 100px;
+	height: 50px;
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	top:0;
+	right: 0;
+}

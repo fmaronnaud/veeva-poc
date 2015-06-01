@@ -14,3 +14,13 @@ body {
 	top:0;
 	right: 0;
 }
+
+.action2{
+	top:50px;
+	background-color: green;
+}
+
+.action3{
+	top:100px;
+	background-color: orange;
+}
